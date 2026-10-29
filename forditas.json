@@ -1,0 +1,43 @@
+{
+  "texts": {
+    "62": "É",
+    "63": "D",
+    "64": "K",
+    "65": "Ny",
+    "68": "Horizontsík",
+    "71": "Égi É",
+    "74": "Nadír",
+    "77": "Zenit",
+    "80": "Meridián",
+    "108": "érték és egység",
+    "111": "További csillagászati tananyagok a honlapunkon:",
+    "113": "verzió, dátum\nlejátszóverzió",
+    "114": "A munkát az NSF #0231270 és/vagy #0404988 támogatta.",
+    "115": "Az eredeti engedély változatlan, nem kereskedelmi használatra szól.",
+    "118": "Az azimut a horizont mentén mért irányszög, a magasság a horizont fölötti szög. A csillagot húzással is áthelyezheted. A csúszkákkal külön állíthatod a két szöget. A jelölőnégyzetekkel megjelenítheted vagy elrejtheted a horizontsíkot, a zenitet, a nadírt és a meridiánt.",
+    "121": "névjegy",
+    "126": "bezár",
+    "128": "bezár",
+    "140": "csúszka",
+    "155": "Az egyes feliratok láthatósága:",
+    "156": "a csillag helyzete húzással is változtatható"
+  },
+  "strings": {
+    "Azimuth/Altitude Demonstrator": "Azimut és magasság",
+    "hide all": "mind elrejt",
+    "show all": "mind mutat",
+    " Horizon Plane": " Horizontsík",
+    " Nadir": " Nadír",
+    " Meridian": " Meridián",
+    " Zenith": " Zenit",
+    "The Horizon Diagram": "Horizontábra",
+    "Star Position": "Csillaghelyzet",
+    "Labels": "Feliratok",
+    "About": "Névjegy",
+    "Help": "Súgó",
+    "20 July 2009": "2009. július 20.",
+    "\nyour player version: ": "\nlejátszóverzió: ",
+    "az:": "azimut:",
+    "alt:": "mag.:"
+  }
+}
